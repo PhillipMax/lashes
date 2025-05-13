@@ -7,12 +7,14 @@
     <link href="styles.css" rel="stylesheet"/>
 </head>
 <body>
+<nav class="navbar">    
     <div class="topnav" id="navbar">
         <header><h1>Lashes by Lexi</h1></header>
         <a href="#about">About</a>
         <a href="#pricing">Pricing</a>
         <a href="#contact">Contact</a>
     </div>
+</nav>
 <section>
     <div class="info" id="about">
         <p>About Lexi</p>
