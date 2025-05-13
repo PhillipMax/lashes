@@ -1,5 +1,5 @@
 #navbar{
-  position:fixed; top:0px; height: 10%; width:100%; background:blue;
+  position:fixed; top:0px; height: 10%; width:100%; background:blue; bottom-margin:40px;
 }
 
 .info {
