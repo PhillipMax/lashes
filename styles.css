@@ -1,9 +1,9 @@
 .topnav{
-  position:fixed; top:0px; height: 10%; width:100%; background:green; margin-bottom:100px; padding: 1em; 
+  position:fixed; top:0px; height: 10%; width:100%; background:green; margin-bottom:100px; padding: 1em; text-decoration: none;
 }
 
 #navbar {
-  display: flex; text-align: center;
+  display: flex; text-align: center; justify-content: space-between;
 }
 
 .info {
