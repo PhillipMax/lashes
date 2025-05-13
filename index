@@ -14,13 +14,13 @@
         <a>Contact</a>
     </nav>
 
-    <div class="about" id="about">
+    <div class="info" id="about">
         <section><p>Here is the about me section where I will put info about lexi, maybe a picture</p></section>
     </div>
-    <div class="pricing" id="pricing">
+    <div class="info" id="pricing">
         <section><p>Here is the pricing section, I should put a table here with options</p></section>
     </div>
-    <div class="contact" id="contact">
+    <div class="info" id="contact">
         <section><p>Here is the contact section, I should be fancy and put a form here people can fill out, but also a thing they can send her emails to, too</p></section>
     </div>
 </body>
