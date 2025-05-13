@@ -7,12 +7,12 @@
     <link href="styles.css" rel="stylesheet"/>
 </head>
 <body>
-    <nav id="navbar">
+    <div class="topnav" id="navbar">
         <header><h1>Lashes by Lexi</h1></header>
         <a>About</a>
         <a>Pricing</a>
         <a>Contact</a>
-    </nav>
+    </div>
 <section>
     <div class="info" id="about">
         <p>Here is the about me section where I will put info about lexi, maybe a picture</p>
