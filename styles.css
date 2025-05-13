@@ -5,4 +5,7 @@
 .info {
   height: 300px; width: 100%; background: pink; margin-top: 0px; padding: 1em;
 }
-  
+
+#body {
+  padding-top: 10%;
+}
