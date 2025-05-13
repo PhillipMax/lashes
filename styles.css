@@ -3,6 +3,6 @@
 }
 
 .info {
-  height: 500px; width: 100%; background: pink;
+  height: 500px; width: 100%; background: pink; margin: 0; padding: 1em;
 }
   
