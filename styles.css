@@ -2,6 +2,10 @@
   position:fixed; top:0px; height: 10%; width:100%; background:green; margin-bottom:100px; padding: 1em; 
 }
 
+#navbar {
+  display: flex; text-align: center;
+}
+
 .info {
   height: 300px; width: 100%; background: pink; margin-top: 0px; padding: 1em;
 }
