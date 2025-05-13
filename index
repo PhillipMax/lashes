@@ -9,18 +9,21 @@
 <body>
     <div class="topnav" id="navbar">
         <header><h1>Lashes by Lexi</h1></header>
-        <a>About</a>
-        <a>Pricing</a>
-        <a>Contact</a>
+        <a href="#about">About</a>
+        <a href="#pricing">Pricing</a>
+        <a href="#contact">Contact</a>
     </div>
 <section>
     <div class="info" id="about">
+        <p>About Lexi</p>
         <p>Here is the about me section where I will put info about lexi, maybe a picture</p>
     </div>
     <div class="info" id="pricing">
+        <p>Pricing</p>
         <p>Here is the pricing section, I should put a table here with options</p>
     </div>
     <div class="info" id="contact">
+        <p>Contact</p>
         <p>Here is the contact section, I should be fancy and put a form here people can fill out, but also a thing they can send her emails to, too</p>
     </div>
 </section>
