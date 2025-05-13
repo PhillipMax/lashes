@@ -13,15 +13,16 @@
         <a>Pricing</a>
         <a>Contact</a>
     </nav>
-
+<section>
     <div class="info" id="about">
-        <section><p>Here is the about me section where I will put info about lexi, maybe a picture</p></section>
+        <p>Here is the about me section where I will put info about lexi, maybe a picture</p>
     </div>
     <div class="info" id="pricing">
-        <section><p>Here is the pricing section, I should put a table here with options</p></section>
+        <p>Here is the pricing section, I should put a table here with options</p>
     </div>
     <div class="info" id="contact">
-        <section><p>Here is the contact section, I should be fancy and put a form here people can fill out, but also a thing they can send her emails to, too</p></section>
+        <p>Here is the contact section, I should be fancy and put a form here people can fill out, but also a thing they can send her emails to, too</p>
     </div>
+</section>
 </body>
 </html>
